@@ -1,0 +1,19 @@
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.exe
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.deps.json
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.runtimeconfig.json
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.runtimeconfig.dev.json
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.dll
+E:\graphic project\line algo\bin\Debug\net5.0-windows\ref\line algo.dll
+E:\graphic project\line algo\bin\Debug\net5.0-windows\line algo.pdb
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.csprojAssemblyReference.cache
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line_algo.Form1.resources
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line_algo.Properties.Resources.resources
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.csproj.GenerateResource.cache
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.GeneratedMSBuildEditorConfig.editorconfig
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.AssemblyInfoInputs.cache
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.AssemblyInfo.cs
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.csproj.CoreCompileInputs.cache
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.dll
+E:\graphic project\line algo\obj\Debug\net5.0-windows\ref\line algo.dll
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.pdb
+E:\graphic project\line algo\obj\Debug\net5.0-windows\line algo.genruntimeconfig.cache
